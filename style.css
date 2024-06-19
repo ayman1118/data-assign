@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+#inputelement {
+    margin-bottom: 20px;
+}
+#outputelement {
+    margin-top: 20px;
+}
+.error {
+    color: red;
+}
